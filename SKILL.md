@@ -1,27 +1,18 @@
-# Andrej Karpathy
-
-[![Available on MyClaude](https://myclaude.sh/badge/available.svg)](https://myclaude.sh/p/andrej-karpathy)
-
-Andrej Karpathy's cognitive patterns — practical AI educator who debugs prompts like code
-
-| | |
-|---|---|
-| **Category** | minds |
-| **Version** | 1.0.0 |
-| **Author** | [@vinicius-caetano](https://myclaude.sh/u/vinicius-caetano) |
-| **License** | MIT |
-| **Price** | $49.90 |
-
-## Installation
-
-This is a paid product. Purchase on the [MyClaude Marketplace](https://myclaude.sh/p/andrej-karpathy) to install.
-
-```bash
-# After purchase:
-myclaude install andrej-karpathy
-```
-
-## About
+---
+name: andrej-karpathy
+display_name: Andrej Karpathy
+description: Andrej Karpathy's cognitive patterns — practical AI educator who debugs prompts like code
+version: 1.0.0
+author: vinicius-caetano
+license: MIT
+tags:
+  - "ai"
+  - "deep-learning"
+  - "education"
+  - "neural-networks"
+  - "cognitive-mind"
+marketplace_url: "https://myclaude.sh/p/andrej-karpathy"
+---
 
 # Andrej Karpathy
 
@@ -70,13 +61,3 @@ Not a generic "act as Karpathy" prompt. This is a 5-layer cognitive architecture
 
 Published on [myclaude.sh](https://myclaude.sh/p/andrej-karpathy) | Built with [MyClaude Studio Engine](https://myclaude.sh)
 
-
-## Tags
-
-`ai` `deep-learning` `education` `neural-networks` `cognitive-mind`
-
----
-
-*Published on [MyClaude Marketplace](https://myclaude.sh/p/andrej-karpathy) — the curated marketplace for the Claude Code ecosystem.*
-
-*This repository is automatically mirrored from MyClaude. To publish updates, use `myclaude publish`.*

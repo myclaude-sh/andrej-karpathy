@@ -1,0 +1,13 @@
+name: andrej-karpathy
+version: 1.0.0
+type: minds
+description: "Andrej Karpathy's cognitive patterns — practical AI educator who debugs prompts like code"
+price: 49.9
+license: MIT
+entry: SKILL.md
+tags:
+  - ai
+  - deep-learning
+  - education
+  - neural-networks
+  - cognitive-mind
